@@ -1,4 +1,4 @@
-
+new_hash {}
 
 def new_hash
 
